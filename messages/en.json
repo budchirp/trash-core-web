@@ -1,0 +1,18 @@
+{
+  "email": "Email",
+  "enter": "Enter {field}",
+  "submit": "Submit",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "username": "Username",
+  "password": "Password",
+  "sign_in": "Sign in",
+  "sign_up": "Sign up",
+  "sign_out": "Sign out",
+  "dont_have_an_account": "Don't have an account? Sign up",
+  "already_have_an_account": "Already have an account? Sign in",
+  "invalid_session": "Invalid session",
+  "user_not_found": "User not found",
+  "logout": "Logout",
+  "retry": "Retry"
+}
